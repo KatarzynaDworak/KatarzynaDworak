@@ -32,4 +32,4 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=katarzynadworak)](https://git.io/streak-stats)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/katarzynadworak/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/katarzynadworak/langs)](https://githubtrends.io)
