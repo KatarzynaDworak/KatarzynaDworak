@@ -31,3 +31,5 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katarzynadworak)](https://github.com/katarzynadworak/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=katarzynadworak)](https://git.io/streak-stats)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/katarzynadworak/svg/avgupta456/langs)](https://githubtrends.io)
