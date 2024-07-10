@@ -29,3 +29,5 @@ During my mentorship program at Devmentor.pl, I worked on a variety of projects 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/katarzynadworakk/).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katarzynadworak)](https://github.com/katarzynadworak/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=katarzynadworak)](https://git.io/streak-stats)
