@@ -1,5 +1,4 @@
-![Heading](https://github.com/KatarzynaDworak/KatarzynaDworak/assets/147186733/b7c6a505-020c-4513-adc2-2c645d3fcd86)
-
+![Heading](https://github.com/KatarzynaDworak/KatarzynaDworak/assets/147186733/807f61aa-15cb-468e-8989-3ce14fd1b208)
 
 ### About Me 👋
 I am a passionate and dedicated front-end developer with a deep love for programming. My journey in web development has been shaped by a comprehensive mentorship from Devmentor.pl, where I honed my skills in HTML, CSS, and JavaScript through intensive training and real-world projects.
