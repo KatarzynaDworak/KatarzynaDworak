@@ -1,9 +1,7 @@
-## Hi there, I'm Katarzyna Dworak 👋
-
 ![Heading](https://github.com/KatarzynaDworak/KatarzynaDworak/assets/147186733/b7c6a505-020c-4513-adc2-2c645d3fcd86)
 
 
-### About Me
+### About Me 👋
 I am a passionate and dedicated front-end developer with a deep love for programming. My journey in web development has been shaped by a comprehensive mentorship from Devmentor.pl, where I honed my skills in HTML, CSS, and JavaScript through intensive training and real-world projects.
 
 ### My Professional Journey
