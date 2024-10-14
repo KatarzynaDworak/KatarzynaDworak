@@ -13,7 +13,7 @@ I am a passionate and dedicated front-end developer with a deep love for program
 
 ### Skills and Tools
 - **Languages:** HTML, CSS, JavaScript, TypeScript (in progress)
-- **Libraries & Frameworks:** React (in progress)
+- **Libraries & Frameworks:** React (JavaScript)
 - **Version Control:** Git, GitHub
 - **Other Skills:** UX/UI Design, SEO, Marketing (organic and paid traffic), Business Development, Client Relationship Management
 
