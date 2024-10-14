@@ -5,7 +5,7 @@ I am a passionate and dedicated front-end developer with a deep love for program
 
 ### My Professional Journey
 - **🌱 Continuous Learner:** I am constantly exploring the latest technologies and enhancing my skills. My recent focus has been on mastering **React** and **TailwindCSS** for building scalable, responsive applications.
-- **🛠️ Experienced Developer:** I have successfully completed over **10 projects** and **50 tasks**, with more than **500 hours** of hands-on experience during a professional mentoring program at Devmentor.pl. I collaborated with a mentor to solve complex coding challenges, sharpen best practices, and deliver high-quality code.
+- **🛠️ Experienced Developer:** I have successfully completed over **12 projects** and **50 tasks**, with more than **500 hours** of hands-on experience during a professional mentoring program at Devmentor.pl. I collaborated with a mentor to solve complex coding challenges, sharpen best practices, and deliver high-quality code.
 - **📊 Front-End Specialist:** I am proficient in building responsive web applications using **React**, **JavaScript**, and modern libraries such as **Zustand** for state management, and **Firebase** for backend services.
 - **🎨 UI/UX Enthusiast:** Experienced in designing and implementing user-friendly interfaces that prioritize both aesthetics and functionality, using **TailwindCSS** to ensure pixel-perfect designs.
 - **🔍 SEO & Optimization:** Skilled in optimizing websites for search engines to improve performance and visibility, ensuring that the user experience is both seamless and efficient.
